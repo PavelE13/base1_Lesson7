@@ -43,31 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="base2_Lesson7\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
-    <Compile Include="base2_Lesson7\Program.cs" />
-    <Compile Include="base2_Lesson7\Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="base2_Lesson7\App.config" />
-    <None Include="base2_Lesson7\base2_Lesson7.csproj" />
-    <None Include="base2_Lesson7\bin\Debug\base2_Lesson7.exe.config" />
-    <None Include="base2_Lesson7\obj\Debug\base2_Lesson7.csproj.AssemblyReference.cache" />
-    <None Include="base2_Lesson7\obj\Debug\base2_Lesson7.csproj.CoreCompileInputs.cache" />
-    <None Include="base2_Lesson7\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="base2_Lesson7\bin\Debug\base2_Lesson7.exe" />
-    <Content Include="base2_Lesson7\bin\Debug\base2_Lesson7.pdb" />
-    <Content Include="base2_Lesson7\obj\Debug\base2_Lesson7.csproj.FileListAbsolute.txt" />
-    <Content Include="base2_Lesson7\obj\Debug\base2_Lesson7.exe" />
-    <Content Include="base2_Lesson7\obj\Debug\base2_Lesson7.pdb" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="base2_Lesson7\bin\Release\" />
-    <Folder Include="base2_Lesson7\obj\Debug\TempPE\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
